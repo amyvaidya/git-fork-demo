@@ -6,4 +6,4 @@ Welcome to our DevOps training.
 This project is maintained by the trainer.
 
 ## Contributors
-No student contributions yet.
+John - Devops Student
