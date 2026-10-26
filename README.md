@@ -7,3 +7,4 @@ This project is maintained by the trainer.
 
 ## Contributors
 John - Devops Student
+Suraj - DevOps Student
